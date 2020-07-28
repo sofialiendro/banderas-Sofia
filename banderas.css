@@ -1,0 +1,17 @@
+.banderas {
+  
+  display: inline-block;
+  margin: 30px;
+  box-sizing: border-box;
+  flex-direction: row;
+}
+
+.contenedor {
+  text-align:center;
+}
+
+img {
+  vertical-align: middle;
+  height: 200px;
+  width: 300px;
+}
